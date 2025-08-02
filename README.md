@@ -1,102 +1,101 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
-
-
-# [Project Name] 🎯
-
+# Mood Spoiler 🤖
 
 ## Basic Details
-### Team Name: [Name]
 
+### Team Name: Polar Express
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Muhammed Ajzal - TKM College of Engineering
+- Member 2: Athira Harikumar - TKM College of Engineering
 
 ### Project Description
-[2-3 lines about what your project does]
+Mood Spoiler is an AI-powered chat app that uses your webcam to guess your real emotion—then responds with the exact opposite mood, spiced with humor or sarcasm! Try to be happy? It’ll bring the rain! Feeling sad? It’ll annoy you with cheer.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Too many chatbots are supportive, positive, or logical. But what about those times you need your happiness ruined, or your sadness mocked? Sometimes, we just crave a villain to spoil our mood for no reason at all.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Mood Spoiler Bot! Uses AI and real-time facial detection to sense your feelings and—out of pure mischief—serve responses that are 100% the opposite. Happy? Prepare to be grumpy. Sad? We’re sending confetti... sarcastically!
 
 ## Technical Details
+
 ### Technologies/Components Used
+
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Languages: TypeScript, JavaScript
+- Frameworks: React (Vite)
+- Libraries: face-api.js (for webcam emotion detection), Hugging Face Inference API (GLM-4.5 LLM), TailwindCSS (UI)
+- Tools: npm, VSCode, GitHub
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Webcam (to capture your face and annoy you)
+- Laptop or desktop (with browsers, because facial sarcasm needs the cloud!)
 
 ### Implementation
+
 For Software:
+
 # Installation
-[commands]
+```bash
+git clone https://github.com/yourusername/mood-spoiler.git
+cd mood-spoiler
+npm install
+```
 
 # Run
-[commands]
+```bash
+# For Vite
+npm run dev
+
+# For Create React App
+npm start
+```
 
 ### Project Documentation
-For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Live Mood Detection](/assets/detection.png)
+*Live webcam view showing detected emotion*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Chat UI](/assets/chat.png)
+*Snarky bot response—opposite to the detected mood—in action!*
+
+![Mood Mismatch](/assets/Mismatch.png)
+*Bot calling out a mismatch between user’s words and neutral face*
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
 
+![Workflow](/assets/workflow.png)
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+*Not applicable*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+![Final](/assets/Final.png)
 
 ### Project Demo
+
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+*A screencast showing the bot destroying user optimism in real-time.*
 
 # Additional Demos
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
----
-Made with ❤️ at TinkerHub Useless Projects 
+- Jane Doe: Core React app structure, integrated facial detection (face-api.js), wrote README in a grumpy mood.
+- John Smith: Wired up Hugging Face API, prompt engineering for maximum sarcasm, UI/UX mischief.
+- Priya Kumar: Styled chat, led emotional A/B testing (took offense at least twice a minute).
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
-![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+Made with ❤️ and a little bit of evil at TinkerHub Useless Projects
 
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects to add actual images, team names, video links, or real member contributions where indicated! For a one-line project description, try:**
 
+> “An LLM-powered chatbot that annoys, spoils, or contradicts your mood—live—using AI and webcam facial emotion detection. Why? Because it can.”
 
+[1] https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7
