@@ -3,6 +3,7 @@
 # Mood Spoiler 🤖
 
 Deployed in : https://mood-spoiler.vercel.app/
+There seem to be certain issues at times. If this doesn't work, use this repo: https://github.com/Ajzal-me/Mood-Spoiler.git
 
 ## Basic Details
 
