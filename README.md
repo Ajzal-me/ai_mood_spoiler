@@ -1,3 +1,5 @@
+<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+
 # Mood Spoiler 🤖
 
 ## Basic Details
@@ -34,6 +36,19 @@ For Hardware:
 ### Implementation
 
 For Software:
+# Setup API Token
+
+This project uses the **Hugging Face Chat Completions API**, which requires an API token.
+
+1. Create a `.env` file in the project root (same folder as `package.json`)
+2. Add your token to `.env`:
+```
+VITE_HF_TOKEN=your_huggingface_token_here
+```
+3. Get a free Hugging Face token here: https://huggingface.co/settings/tokens (choose **Read** role for inference)
+4. **Important:** Restart your dev server after modifying `.env`
+
+
 
 # Installation
 ```bash
@@ -89,8 +104,7 @@ Athira Harikumar
 
 Made with ❤️ and a little bit of evil at TinkerHub Useless Projects
 
-![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects to add actual images, team names, video links, or real member contributions where indicated! For a one-line project description, try:**
-
-> “An LLM-powered chatbot that annoys, spoils, or contradicts your mood—live—using AI and webcam facial emotion detection. Why? Because it can.”
+![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
+![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
 
 [1] https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7
