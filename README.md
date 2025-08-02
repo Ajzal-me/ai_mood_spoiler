@@ -36,6 +36,19 @@ For Hardware:
 ### Implementation
 
 For Software:
+# Setup API Token
+
+This project uses the **Hugging Face Chat Completions API**, which requires an API token.
+
+1. Create a `.env` file in the project root (same folder as `package.json`)
+2. Add your token to `.env`:
+```
+VITE_HF_TOKEN=your_huggingface_token_here
+```
+3. Get a free Hugging Face token here: https://huggingface.co/settings/tokens (choose **Read** role for inference)
+4. **Important:** Restart your dev server after modifying `.env`
+
+
 
 # Installation
 ```bash
