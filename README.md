@@ -80,17 +80,12 @@ For Hardware:
 ### Project Demo
 
 # Video
-[Add your demo video link here]
-*A screencast showing the bot destroying user optimism in real-time.*
+[[Video Link](https://drive.google.com/file/d/1kaLyh-s5DMNdbjFzG4dOWZzWujPadLIO/view?usp=sharing)]
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-
-- Jane Doe: Core React app structure, integrated facial detection (face-api.js), wrote README in a grumpy mood.
-- John Smith: Wired up Hugging Face API, prompt engineering for maximum sarcasm, UI/UX mischief.
-- Priya Kumar: Styled chat, led emotional A/B testing (took offense at least twice a minute).
+Muhammed Ajzal - Created the Proj
+Athira Harikumar
 
 Made with ❤️ and a little bit of evil at TinkerHub Useless Projects
 
