@@ -1,0 +1,6 @@
+{
+  "short_name": "Mood Spoiler",
+  "name": "AI Mood Spoiler",
+  "start_url": ".",
+  "display": "standalone"
+}
